@@ -13,6 +13,7 @@
 
  
 
+<img width="1436" height="726" alt="511812311-fed19c04-f974-43fe-91c4-da98cb07fd99" src="https://github.com/user-attachments/assets/fc176551-25c9-4374-925d-b052733a07be" />
 
 
 
@@ -60,7 +61,10 @@ Step 7: Save Your Work
 
 ## Output:
 
-   
+
+  <img width="1919" height="972" alt="511812416-081d96a6-b8e8-4bf6-a00f-a51d1d64d773" src="https://github.com/user-attachments/assets/37158fb8-93ec-44b9-b03e-63072a0103f3" />
+ 
 
 ## Result:
 
+thus the air quality using smoke sensor mq2 is verified 
