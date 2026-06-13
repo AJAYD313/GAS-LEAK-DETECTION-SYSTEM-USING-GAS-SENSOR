@@ -104,4 +104,4 @@ void loop() {
 
 
 ## Result:
-
+thus the air quality is measured by using mq2 sensor is verified successfully 
